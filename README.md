@@ -24,7 +24,7 @@
 
 ### 📫 Get in Touch
 - **Email:** [tokrimauhitam@gmail.com.com]
-- **LinkedIn:** https://www.linkedin.com/in/safwanrahimi/(#)
+- **LinkedIn:** https://www.linkedin.com/in/safwanrahimi/
 - **Website:** [](#)
 
 Thanks for visiting my profile!

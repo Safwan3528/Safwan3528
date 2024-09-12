@@ -23,7 +23,7 @@
 - Network with like-minded professionals in the tech industry.
 
 ### 📫 Get in Touch
-- **Email:** [tokrimauhitam@gmail.com.com]
+- **Email:** tokrimauhitam@gmail.com.com
 - **LinkedIn:** https://www.linkedin.com/in/safwanrahimi/
 - **Website:** [](#)
 

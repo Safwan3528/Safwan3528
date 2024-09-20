@@ -13,9 +13,8 @@
 
 ### 📈 Experience
 - **Nagasari Kersani Trading & Services:** Providing desktop and laptop repair, preventive maintenance, and IT services.
-- **Madrassah Misbah Assalam Sdn Bhd:** 9 years as a Web Developer and IT Technician, building web solutions and troubleshooting IT issues.
+- **Madrassah Misbah Assalam Sdn Bhd / Yayasan ABADA :** 9 years as a Web Developer and IT Technician, building web solutions and troubleshooting IT issues.
 
-### 💻 Projects
 
 ### 🎯 Goals
 - Continuously improve my full-stack development skills.
@@ -23,9 +22,9 @@
 - Network with like-minded professionals in the tech industry.
 
 ### 📫 Get in Touch
-- **Email:** tokrimauhitam@gmail.com.com
-- **LinkedIn:** https://www.linkedin.com/in/safwanrahimi/
-- **Website:** [](#)
+- **Email:** [tokrimauhitam@gmail.com.com](#)
+- **LinkedIn:** [https://www.linkedin.com/in/safwanrahimi/](#)
+- **Website:** [https://safwanrahimi.vercel.app/](#)
 
 Thanks for visiting my profile!
 ```

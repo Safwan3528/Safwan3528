@@ -1,12 +1,12 @@
 # Hi there, I'm Safwan Rahimi 👋
 
-🚀 About Me
+###🚀 About Me
 
 💼 IT Technician & Web Developer with 9+ years of experience in delivering innovative web solutions and IT services.
 🎓 Currently pursuing a Bachelor of Science (Hons) in Information Technology at Malaysia University of Science and Technology.
 👨‍💻 Entrepreneur since 2023, owning a freelance company specializing in web application development and IT solutions.
 
-🔧 Skills
+###🔧 Skills
 
 Languages
 
@@ -28,14 +28,14 @@ Operating Systems
 Linux, Windows
 
 
-📈 Experience
+###📈 Experience
 
 Nagasari Kersani Trading & Services: Delivering expert desktop and laptop repair, preventive maintenance, and IT services.
 
 Madrassah Misbah Assalam Sdn Bhd / Yayasan ABADA: 9 years as a Web Developer and IT Technician, creating custom web applications and troubleshooting IT challenges.
 
 
-🎯 Goals
+###🎯 Goals
 
 Master full-stack development and AI-powered solutions.
 
@@ -46,13 +46,13 @@ Contribute to impactful open-source projects and build a standout portfolio.
 Connect with tech professionals to exchange knowledge and grow together.
 
 
-📫 Get in Touch
+###📫 Get in Touch
 
 Email: tokrimauhitam@gmail.com
 
-LinkedIn: linkedin.com/in/safwanrahimi
+LinkedIn: https://www.linkedin.com/in/safwanrahimi
 
-Website: safwanrahimi.vercel.app
+Website: https://safwanrahimi.vercel.app/
 
 
 Thanks for visiting my profile! Let's collaborate!

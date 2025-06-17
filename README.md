@@ -49,10 +49,8 @@ Contribute to impactful open-source projects
 Connect with global tech professionals to grow and collaborate
 
 📫 Get in Touch
-Email: safwan.rahimi@ug.must.edu.my
 
-LinkedIn: [Safwan Rahimi] (linkedin.com/in/safwanrahimi)
-
-Portfolio: [Safwan Rahimi] (safwanrahimi.vercel.app)
-
-GitHub: [Safwan3528] (github.com/Safwan3528)
+- 📧 Email: [Email Me!](mailto:safwan.rahimi@ug.must.edu.my)  
+- 🔗 LinkedIn: [Safwan Rahimi](https://www.linkedin.com/in/safwanrahimi)  
+- 🌐 Portfolio: [Safwan Portfolio](https://safwanrahimi.vercel.app)  
+- 💻 GitHub: [Safwan3528](https://github.com/Safwan3528)

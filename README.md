@@ -7,9 +7,7 @@ I am a Software Engineer and Field Engineer with over 15 years of experience in 
 Currently, I am pursuing a Bachelor of Science (Hons) in Information Technology at Malaysia University of Science and Technology (CGPA: 3.86) while managing my own freelance IT company, Nagasari Kersani Trading & Services, offering end-to-end development and on-site IT solutions.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan3528&layout=compact&theme=tokyonight)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Safwan3528&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan3528&layout=compact&theme=tokyonight) ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Safwan3528&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Safwan3528&theme=tokyonight)](https://git.io/streak-stats)
 
